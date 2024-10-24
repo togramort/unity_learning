@@ -1,2 +1,5 @@
-# unity_learning
-some of my simple unity projects
+# flappy bird (drunk or basic)
+-- colliders
+-- particle system
+-- super simple animation
+-- scenes
